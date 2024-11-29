@@ -6,6 +6,6 @@
 - <b>Azure / Cloud Cybersecurity Projects </b>
   - [Creating a SOC / Honeynet](https://github.com/Tpark7600/Azure-SOC)
 - <b> Linux Projects </b>
-  -  [Port Scanner] (https://github.com/Tpark7600/Linux-Projects/blob/main/Port_Scanner_Project_Details.docx)
+  -  [Port Scanner](https://github.com/Tpark7600/Linux-Projects)
 - <b> Splunk Pojects </b>
   - [Monitoring and Detection: Splunk](https://github.com/Tpark7600/Splunk-Projects)
